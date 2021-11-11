@@ -1,1 +1,1 @@
-# SportyShoes
+# ShopEasy
